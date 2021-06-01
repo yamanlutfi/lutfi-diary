@@ -70,8 +70,43 @@
           </div>
         </b-col>
         <b-col md="4">
-          <div class="s-primary ads bg-white br-primary">
+          <div class="s-primary bg-white br-primary">
             <img class="img-fluid br-primary" src="https://image.freepik.com/free-vector/opening-soon-background-flat-style_23-2148249882.jpg"/>
+          </div>
+          <hr class="mt-5"/>
+          <b-row class="mt-4 footer">
+            <b-col>
+              <label class="mb-2 w-100 c-pointer">About Diary</label>
+              <label class="mb-2 w-100 c-pointer">Security Center</label>
+              <label class="mb-2 w-100 c-pointer">Transparency Report</label>
+              <label class="mb-2 w-100 c-pointer">Cookie Policy</label>
+            </b-col>
+            <b-col>
+              <label class="mb-2 w-100 c-pointer">Terms and Conditions</label>
+              <label class="mb-2 w-100 c-pointer">Privacy Policy</label>
+              <label class="mb-2 w-100 c-pointer">FAQ</label>
+              <label class="mb-2 w-100 c-pointer">Articles</label>
+            </b-col>
+          </b-row>
+          <hr/>
+          <div class="mt-1 mb-4">
+            <center>
+            <a href="#" class="btn p-2">
+              <img src="https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/90f8d7cf.svg"/>
+            </a>
+            <a href="#" class="btn p-2">
+              <img src="https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/bb6967ee.svg"/>
+            </a>
+            <a href="#" class="btn p-2">
+              <img src="https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/c6c3a108.svg"/>
+            </a>
+            <a href="#" class="btn p-2">
+              <img src="https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/6bbf7298.svg"/>
+            </a>
+            <a href="#" class="btn p-2">
+              <img width="24" height="24" src="https://s3-ap-southeast-1.amazonaws.com/hargadunia/images/social-media/whatsapp.svg"/>
+            </a>
+            </center>
           </div>
         </b-col>
       </b-row>
