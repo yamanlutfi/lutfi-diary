@@ -1,6 +1,11 @@
-## Yaman Diary (NuxtJS/VueJS)
+## Yaman Lutfi Diary (NuxtJS/VueJS)
 
-### url
+### URL Production
+```
+https://lutfi-diary.herokuapp.com/
+```
+
+### URL Local
 ```
 localhost:3000
 ```
