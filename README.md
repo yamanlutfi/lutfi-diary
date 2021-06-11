@@ -10,7 +10,7 @@ https://lutfi-diary.herokuapp.com/
 localhost:3000
 ```
 
-### Step to running project
+### Step to running project in local
 
 - Install yarn in your laptop
 
